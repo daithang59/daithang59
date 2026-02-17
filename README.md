@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://daithang-portfolio-672q.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:daithanghuynhle@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://facebook.com/hldaithangg"><img src="https://img.shields.io/badge/Facebook-111?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
@@ -60,7 +60,10 @@
 
 ## 🐍 Contribution snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daithang59/daithang59/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daithang59/daithang59/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/daithang59/daithang59/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
