@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Dai+Thang+(@daithang59);I+build+Web+%26+Mobile+apps+with+modern+stacks;Interested+in+Backend%2C+Security%2C+and+CI%2FCD;Always+learning%2C+always+shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Dai+Thang+(@daithang59);I+build+Web+%26+Mobile+apps+with+modern+stacks;Interested+in+Backend%2C+Security%2C+and+CI%2FCD." />
 </p>
 
 <p align="center">
@@ -15,10 +15,9 @@
 ---
 
 ## 🧭 About
-- 🎓 UIT • Vietnam  
-- 🧩 Focus: **Full-stack**, **Mobile**, and **Security-minded** engineering  
-- ⚙️ I care about: clean architecture, performance, and maintainability  
-- 🧪 Exploring: system design, testing, CI/CD
+- 🎓 UIT • Vietnam
+- 🧩 Full-stack / Mobile
+- 🔐 Interested in Security & Backend Engineering
 
 ---
 
@@ -30,33 +29,27 @@
 ---
 
 ## 🚀 Featured projects
-> Chọn ít nhưng “đúng chất”: mỗi project 1 dòng impact.
-
 ### 🧱 Product / Team
 - **desko** — Helpdesk SaaS đa tenant (TypeScript)  
-  Repo: https://github.com/daithang-organization/desko  
+  Repo: https://github.com/daithang-organization/desko
 - **MentorMe (Web/Mobile)** — mentor/mentee scheduling + chat (JS/Kotlin)  
-  Repo: https://github.com/kaing615/MentorMe • https://github.com/kaing615/MentorMe-Mobile-App  
+  Repo: https://github.com/kaing615/MentorMe • https://github.com/kaing615/MentorMe-Mobile-App
 
 ### ⚙️ Coursework / Practice
-- **ToDoList-WebApp** (JavaScript)  
-- **SE104_VLEAGUE** (TypeScript)  
+- **ToDoList-WebApp** (JavaScript)
+- **SE104_VLEAGUE** (TypeScript)
 - **Lab06-AnToanMangMayTinh** (Python)
 
 ---
 
 ## 📈 Proof of work
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daithang59&show_icons=true&rank_icon=github&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daithang59&show_icons=true&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daithang59&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=daithang59&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daithang59&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
@@ -73,6 +66,6 @@
 ---
 
 ## 🤝 Contact
-- Portfolio: https://daithang-portfolio-672q.onrender.com/  
+- Portfolio: https://daithang-portfolio-672q.onrender.com/
 - Email: daithanghuynhle@gmail.com
 - FB: https://facebook.com/hldaithangg
