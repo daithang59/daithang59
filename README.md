@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Dai+Thang+(@daithang59);I+build+Web+%26+Mobile+apps+with+modern+stacks;Interested+in+Backend%2C+Security%2C+and+CI%2FCD." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Dai+Thang+(@daithang59);I+build+Web+%26+Mobile+apps+with+modern+stacks;Backend%2C+Security%2C+and+CI%2FCD+enthusiast." />
 </p>
 
 <p align="center">
@@ -12,12 +12,21 @@
   <a href="https://facebook.com/hldaithangg"><img src="https://img.shields.io/badge/Facebook-111?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daithang59&style=flat-square&label=Profile%20views" />
+</p>
+
 ---
 
 ## 🧭 About
-- 🎓 UIT • Vietnam
-- 🧩 Full-stack / Mobile
-- 🔐 Interested in Security & Backend Engineering
+- 🎓 UIT • Vietnam  
+- 🧩 Full-stack / Mobile  
+- 🔐 Interested in Security & Backend Engineering  
+- ✅ Strengths: clean architecture, APIs, DB design, teamwork
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ---
 
@@ -29,11 +38,15 @@
 ---
 
 ## 🚀 Featured projects
+
 ### 🧱 Product / Team
-- **desko** — Helpdesk SaaS multi tenant (TypeScript)  
-  Repo: https://github.com/daithang-organization/deskio
+- **deskio** — Helpdesk SaaS multi-tenant (TypeScript)  
+  Repo: https://github.com/daithang-organization/deskio  
+  Highlights: multi-tenant structure • role-based access • ticketing workflow • scalable data model
+
 - **MentorMe (Web/Mobile)** — mentor/mentee scheduling + chat (JS/Kotlin)  
-  Repo: https://github.com/kaing615/MentorMe • https://github.com/kaing615/MentorMe-Mobile-App
+  Repo: https://github.com/kaing615/MentorMe • https://github.com/kaing615/MentorMe-Mobile-App  
+  Highlights: scheduling flow • chat experience • onboarding • team collaboration
 
 ### ⚙️ Coursework / Practice
 - **ToDoList-WebApp** (JavaScript)
@@ -42,15 +55,36 @@
 
 ---
 
+## 📌 Project cards
+<p align="center">
+  <a href="https://github.com/daithang-organization/deskio">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=daithang-organization&repo=deskio&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/kaing615/MentorMe">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kaing615&repo=MentorMe&hide_border=true&theme=transparent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/daithang59/ToDoList-WebApp">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=daithang59&repo=ToDoList-WebApp&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/daithang59/SE104_VLEAGUE">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=daithang59&repo=SE104_VLEAGUE&hide_border=true&theme=transparent" />
+  </a>
+</p>
+
+---
+
 ## 📈 Proof of work
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daithang59&theme=github_dark" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daithang59&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daithang59&theme=github_dark" />
 </p>
-
 
 ---
 
@@ -68,3 +102,7 @@
 - Portfolio: https://daithang-portfolio-672q.onrender.com/
 - Email: daithanghuynhle@gmail.com
 - FB: https://facebook.com/hldaithangg
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient" />
+</p>
