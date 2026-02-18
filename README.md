@@ -67,8 +67,9 @@ Repo: https://github.com/kaing615/MentorMe • https://github.com/kaing615/Mento
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daithang59&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=daithang59&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </p>
+
 
 ---
 
