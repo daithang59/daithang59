@@ -44,17 +44,13 @@
 
 ## 📈 Proof of work
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daithang59&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daithang59&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daithang59&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daithang59&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daithang59&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=daithang59&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daithang59&hide_border=true" />
-</p>
 
 ---
 
