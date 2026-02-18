@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Dai+Thang+(@daithang59);I+build+Web+%26+Mobile+apps+with+modern+stacks;Backend%2C+Security%2C+and+CI%2FCD+enthusiast." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=950&lines=Hi%2C+I%27m+Dai+Thang+(@daithang59);Full-stack+%26+Mobile+Developer;Backend+%2B+Security+mindset+%2B+CI%2FCD;I+ship+clean%2C+maintainable+products." />
 </p>
 
 <p align="center">
@@ -12,75 +12,65 @@
   <a href="https://facebook.com/hldaithangg"><img src="https://img.shields.io/badge/Facebook-111?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daithang59&style=flat-square&label=Profile%20views" />
-</p>
-
 ---
 
 ## 🧭 About
 - 🎓 UIT • Vietnam  
-- 🧩 Full-stack / Mobile  
-- 🔐 Interested in Security & Backend Engineering  
-- ✅ Strengths: clean architecture, APIs, DB design, teamwork
+- 🧩 Full-stack / Mobile • Backend-first mindset  
+- 🔐 Security-minded engineering (auth, validation, least-privilege)  
+- 🎯 Goal: build products that are fast, reliable, and easy to maintain  
 
+---
+
+## 🔥 Current Focus
+- Building: **multi-tenant SaaS patterns** (RBAC, tenant isolation, scalable data model)
+- Improving: **testing + CI/CD**, code quality, deployment pipelines
+- Learning: security best practices for web + API
+
+---
+
+## 🧰 Tech stack (compact)
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,python,java,kotlin,postgres,mongodb,docker,git,github&perline=7" />
 </p>
 
 ---
 
-## 🧰 Tech stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,kotlin,mongodb,mysql,postgres,git,github,docker&perline=7" />
+## 🚀 Featured projects (with demos)
+
+### 🧱 deskio — Helpdesk SaaS multi-tenant (TypeScript)
+Repo: https://github.com/daithang-organization/deskio  
+**Highlights:** tenant isolation • RBAC • ticket workflow • scalable data model  
+**Demo:** TODO: link deploy (Render/Vercel) / video  
+<p>
+  <!-- TODO: thay ảnh bằng screenshot/GIF thật của bạn để “wow” -->
+  <img src="https://dummyimage.com/900x320/111/fff&text=deskio+demo+preview+(replace+with+your+screenshot)" />
 </p>
+
+### 📱 MentorMe — mentor/mentee scheduling + chat (JS/Kotlin)
+Repo: https://github.com/kaing615/MentorMe • https://github.com/kaing615/MentorMe-Mobile-App  
+**Highlights:** scheduling flow • chat UX • onboarding • team collaboration  
+**Demo:** TODO: link APK / video / web demo  
+<p>
+  <!-- TODO: thay ảnh bằng screenshot/GIF thật của bạn -->
+  <img src="https://dummyimage.com/900x320/111/fff&text=MentorMe+demo+preview+(replace+with+your+screenshot)" />
+</p>
+
+<details>
+  <summary><b>📚 Coursework / Practice</b></summary>
+
+- ToDoList-WebApp (JavaScript)  
+- SE104_VLEAGUE (TypeScript)  
+- Lab06-AnToanMangMayTinh (Python)
+
+</details>
 
 ---
 
-## 🚀 Featured projects
-
-### 🧱 Product / Team
-- **deskio** — Helpdesk SaaS multi-tenant (TypeScript)  
-  Repo: https://github.com/daithang-organization/deskio  
-  Highlights: multi-tenant structure • role-based access • ticketing workflow • scalable data model
-
-- **MentorMe (Web/Mobile)** — mentor/mentee scheduling + chat (JS/Kotlin)  
-  Repo: https://github.com/kaing615/MentorMe • https://github.com/kaing615/MentorMe-Mobile-App  
-  Highlights: scheduling flow • chat experience • onboarding • team collaboration
-
-### ⚙️ Coursework / Practice
-- **ToDoList-WebApp** (JavaScript)
-- **SE104_VLEAGUE** (TypeScript)
-- **Lab06-AnToanMangMayTinh** (Python)
-
----
-
-## 📌 Project cards
-
+## 🏆 Trophies
 <p align="center">
-  <a href="https://github.com/daithang-organization/deskio">
-    <img src="https://img.shields.io/badge/deskio-Helpdesk%20SaaS-111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/kaing615/MentorMe">
-    <img src="https://img.shields.io/badge/MentorMe-Web%20App-111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=daithang59&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/kaing615/MentorMe-Mobile-App">
-    <img src="https://img.shields.io/badge/MentorMe-Mobile%20App-111?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
-  <a href="https://github.com/daithang59/SE104_VLEAGUE">
-    <img src="https://img.shields.io/badge/SE104_VLEAGUE-Project-111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/daithang59?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20all%20repos-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 
 ---
 
@@ -92,6 +82,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daithang59&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daithang59&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=daithang59&hide_border=true" />
 </p>
 
 ---
