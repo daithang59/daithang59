@@ -18,9 +18,10 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
 ## 🚀 About Me
 
-```ts
 const daiThang = {
   location: "Vietnam 🇻🇳",
   education: "UIT",
@@ -28,16 +29,7 @@ const daiThang = {
   currentlyLearning: ["Multi-tenant SaaS", "System Design", "CI/CD"],
   mindset: ["Clean code", "Maintainability", "Secure-by-default"],
 };
-🎯 Current Mission
-🔨 Building production-grade SaaS apps (tenant isolation, RBAC)
 
-🔐 Applying practical security patterns for Web/API
-
-📱 Crafting delightful mobile experiences
-
-🤝 Open to collaboration & opportunities
-
-<br clear="right"/>
 🧰 Tech Stack (compact)
 <p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,python,java,kotlin,postgres,mongodb,docker,git,github&perline=7" /> </p>
 💼 Featured Projects
