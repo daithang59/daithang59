@@ -44,7 +44,6 @@ Repo: https://github.com/daithang-organization/deskio
 **Demo:** TODO: link deploy (Render/Vercel) / video  
 <p>
   <!-- TODO: thay ảnh bằng screenshot/GIF thật của bạn để “wow” -->
-  <img src="https://dummyimage.com/900x320/111/fff&text=deskio+demo+preview+(replace+with+your+screenshot)" />
 </p>
 
 ### 📱 MentorMe — mentor/mentee scheduling + chat (JS/Kotlin)
@@ -53,7 +52,6 @@ Repo: https://github.com/kaing615/MentorMe • https://github.com/kaing615/Mento
 **Demo:** TODO: link APK / video / web demo  
 <p>
   <!-- TODO: thay ảnh bằng screenshot/GIF thật của bạn -->
-  <img src="https://dummyimage.com/900x320/111/fff&text=MentorMe+demo+preview+(replace+with+your+screenshot)" />
 </p>
 
 <details>
