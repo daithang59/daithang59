@@ -30,8 +30,8 @@
 
 ## 🚀 Featured projects
 ### 🧱 Product / Team
-- **desko** — Helpdesk SaaS đa tenant (TypeScript)  
-  Repo: https://github.com/daithang-organization/desko
+- **desko** — Helpdesk SaaS multi tenant (TypeScript)  
+  Repo: https://github.com/daithang-organization/deskio
 - **MentorMe (Web/Mobile)** — mentor/mentee scheduling + chat (JS/Kotlin)  
   Repo: https://github.com/kaing615/MentorMe • https://github.com/kaing615/MentorMe-Mobile-App
 
