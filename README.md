@@ -44,8 +44,8 @@
 
 ## 📈 Proof of work
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daithang59&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daithang59&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daithang59&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daithang59&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" />
 </p>
 
 <p align="center">
