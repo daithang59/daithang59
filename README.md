@@ -56,23 +56,31 @@
 ---
 
 ## 📌 Project cards
+
 <p align="center">
   <a href="https://github.com/daithang-organization/deskio">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=daithang-organization&repo=deskio&hide_border=true&theme=transparent" />
+    <img src="https://img.shields.io/badge/deskio-Helpdesk%20SaaS-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/kaing615/MentorMe">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kaing615&repo=MentorMe&hide_border=true&theme=transparent" />
+    <img src="https://img.shields.io/badge/MentorMe-Web%20App-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/daithang59/ToDoList-WebApp">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=daithang59&repo=ToDoList-WebApp&hide_border=true&theme=transparent" />
+  <a href="https://github.com/kaing615/MentorMe-Mobile-App">
+    <img src="https://img.shields.io/badge/MentorMe-Mobile%20App-111?style=for-the-badge&logo=android&logoColor=white" />
   </a>
   <a href="https://github.com/daithang59/SE104_VLEAGUE">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=daithang59&repo=SE104_VLEAGUE&hide_border=true&theme=transparent" />
+    <img src="https://img.shields.io/badge/SE104_VLEAGUE-Project-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/daithang59?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20all%20repos-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
