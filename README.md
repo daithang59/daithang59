@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=daithang59&style=flat-square&label=Profile%20views" />
+<img src="https://komarev.com/ghpvc/?username=daithang59&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -40,13 +40,13 @@
 ## 🚀 Featured projects
 
 ### 🧱 Product / Team
-- **deskio** — Helpdesk SaaS multi-tenant (TypeScript)
-Repo: https://github.com/daithang-organization/deskio
-Highlights: multi-tenant structure • role-based access • ticketing workflow • scalable data model
+- **deskio** — Helpdesk SaaS multi-tenant (TypeScript)  
+  Repo: https://github.com/daithang-organization/deskio  
+  Highlights: multi-tenant structure • role-based access • ticketing workflow • scalable data model
 
-- **MentorMe (Web/Mobile)** — mentor/mentee scheduling + chat (JS/Kotlin)
-Repo: https://github.com/kaing615/MentorMe • https://github.com/kaing615/MentorMe-Mobile-App
-Highlights: scheduling flow • chat experience • onboarding • team collaboration
+- **MentorMe (Web/Mobile)** — mentor/mentee scheduling + chat (JS/Kotlin)  
+  Repo: https://github.com/kaing615/MentorMe • https://github.com/kaing615/MentorMe-Mobile-App  
+  Highlights: scheduling flow • chat experience • onboarding • team collaboration
 
 ### ⚙️ Coursework / Practice
 - **ToDoList-WebApp** (JavaScript)
@@ -80,7 +80,6 @@ Highlights: scheduling flow • chat experience • onboarding • team collabor
 <img src="https://img.shields.io/badge/See%20all%20repos-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
-
 
 ---
 
