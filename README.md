@@ -93,6 +93,13 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daithang59&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=daithang59&hide_border=true&theme=github-dark-blue" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daithang59&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=2EA043&point=58A6FF" />
+</p>
 ---
 
 ## 🐍 Contribution snake
