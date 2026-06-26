@@ -6,6 +6,10 @@
 [![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:daithanghuynhle@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-hldaithangg-1877f2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/hldaithangg)
 
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=daithang59&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile views" />
+
 </div>
 
 ---
@@ -25,25 +29,21 @@
 
 ### DevOps / Cloud / Infrastructure
 
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,gcp,githubactions,jenkins,prometheus,grafana,git,nginx&theme=dark" />
-
-<br /><br />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,gcp,githubactions,jenkins,prometheus,grafana,git,nginx&theme=dark&perline=12" />
 
 <img src="https://cdn.simpleicons.org/helm/0F1689" height="42" title="Helm" />
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/opentofu/FFDA18" height="42" title="OpenTofu" />
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="42" title="Argo CD" />
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/cilium/F8C517" height="42" title="Cilium" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="42" title="SonarQube" />
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/minio/C72E49" height="42" title="MinIO" />
 
 ### Backend / Database / Frontend
 
-<img src="https://skillicons.dev/icons?i=ts,nestjs,spring,fastapi,postgres,redis,mongodb,prisma,react,nextjs,vite,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,nestjs,spring,fastapi,postgres,redis,mongodb,prisma,react,nextjs,vite,python&theme=dark&perline=12" />
 
 </div>
 
@@ -53,8 +53,7 @@
 
 ### [SageLMS](https://github.com/daithang59/sagelms)
 
-AI-powered LMS built with microservices and a DevSecOps-oriented pipeline.
-
+AI-powered LMS with microservices, AI Tutor, Docker/Kubernetes direction, and DevSecOps pipeline.
 `Spring Boot` • `FastAPI` • `React` • `PostgreSQL + pgvector` • `Redis` • `Docker` • `Kubernetes` • `OpenTofu` • `GitHub Actions` • `Trivy` • `Checkov` • `SonarCloud`
 
 ---
@@ -62,23 +61,21 @@ AI-powered LMS built with microservices and a DevSecOps-oriented pipeline.
 ### [DocVault](https://github.com/daithang59/docvault)
 
 Secure document management platform with RBAC, approval workflow, object storage, and audit trail.
-
-`Next.js` • `NestJS` • `PostgreSQL` • `Prisma` • `Keycloak` • `MinIO` • `Docker` • `GitHub Actions` • `Gitleaks`
+`Next.js` • `NestJS` • `PostgreSQL` • `Prisma` • `Keycloak` • `MinIO` • `Docker` • `Gitleaks`
 
 ---
 
 ### [EKS Cilium Benchmark](https://github.com/daithang59/NT531_EKS-Cilium-Kubeproxy-Benchmark)
 
 Kubernetes networking benchmark comparing kube-proxy baseline and Cilium eBPF kube-proxy replacement on AWS EKS.
-
-`AWS EKS` • `Terraform` • `Helm` • `Kubernetes` • `Cilium` • `eBPF` • `Fortio` • `Prometheus` • `Grafana` • `Hubble`
+`AWS EKS` • `Terraform` • `Helm` • `Cilium` • `eBPF` • `Fortio` • `Prometheus` • `Grafana` • `Hubble`
 
 ---
 
 ### Other Projects
 
-* [VLeague Management System](https://github.com/daithang-organization/SE104_VLEAGUE) — football league management platform with RBAC, scheduling, reports, Docker Compose and CI/CD baseline.
-* [MentorMe Web](https://github.com/kaing615/MentorMe) / [Mobile](https://github.com/kaing615/MentorMe-Mobile-App) — mentor/mentee platform with scheduling, realtime chat, video call and mobile app.
+* [VLeague Management System](https://github.com/daithang-organization/SE104_VLEAGUE) — football league management platform with RBAC, reports, Docker Compose and CI/CD baseline.
+* [MentorMe Web/Mobile](https://github.com/kaing615/MentorMe) — mentor/mentee platform with scheduling, realtime chat, video call and mobile app.
 
 ---
 
