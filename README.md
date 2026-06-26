@@ -75,7 +75,7 @@ Kubernetes networking benchmark comparing kube-proxy baseline and Cilium eBPF ku
 ### Other Projects
 
 * [VLeague Management System](https://github.com/daithang-organization/SE104_VLEAGUE) — football league management platform with RBAC, reports, Docker Compose and CI/CD baseline.
-* [MentorMe Web/Mobile](https://github.com/kaing615/MentorMe) — mentor/mentee platform with scheduling, realtime chat, video call and mobile app.
+* [MentorMe Web/Mobile](https://github.com/kaing615/MentorMe-Mobile-App) — mentor/mentee platform with scheduling, realtime chat, video call and mobile app.
 
 ---
 
