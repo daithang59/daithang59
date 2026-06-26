@@ -13,48 +13,37 @@
 ## About
 
 * UIT student from Vietnam
-* Currently focusing on **DevOps / DevSecOps / Cloud-native Engineering**
+* Focused on **DevOps / DevSecOps / Cloud-native Engineering**
 * Backend & full-stack foundation with experience in **microservices**, **security**, and **database design**
-* Interested in **CI/CD**, **Kubernetes**, **GitOps**, **cloud infrastructure**, **observability**, and **security automation**
+* Interested in **CI/CD, Kubernetes, GitOps, cloud infrastructure, observability, and security automation**
 
 ---
 
-## Tech Stack & Tools I Work With
+## Tech Stack
 
 <div align="center">
 
 ### DevOps / Cloud / Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge\&logo=linux\&logoColor=111111)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0f1689?style=for-the-badge\&logo=helm\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844fba?style=for-the-badge\&logo=terraform\&logoColor=white)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-ffda18?style=for-the-badge\&logo=opentofu\&logoColor=111111)
-![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285f4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,gcp,githubactions,jenkins,prometheus,grafana,git,nginx&theme=dark" />
 
-### CI/CD / DevSecOps / Observability
+<br /><br />
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-d24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-ef7b4d?style=for-the-badge\&logo=argo\&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4e9bcd?style=for-the-badge\&logo=sonarqube\&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904da?style=for-the-badge\&logo=aqua\&logoColor=white)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-111111?style=for-the-badge\&logo=git\&logoColor=white)
-![Cilium](https://img.shields.io/badge/Cilium-f8c517?style=for-the-badge\&logo=cilium\&logoColor=111111)
-![Prometheus](https://img.shields.io/badge/Prometheus-e6522c?style=for-the-badge\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-f46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+<img src="https://cdn.simpleicons.org/helm/0F1689" height="42" title="Helm" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/opentofu/FFDA18" height="42" title="OpenTofu" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/argo/EF7B4D" height="42" title="Argo CD" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/cilium/F8C517" height="42" title="Cilium" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="42" title="SonarQube" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/minio/C72E49" height="42" title="MinIO" />
 
-### Backend / Database
+### Backend / Database / Frontend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6db33f?style=for-the-badge\&logo=springboot\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-dc382d?style=for-the-badge\&logo=redis\&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-c72e49?style=for-the-badge\&logo=minio\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,nestjs,spring,fastapi,postgres,redis,mongodb,prisma,react,nextjs,vite,python&theme=dark" />
 
 </div>
 
@@ -62,56 +51,34 @@
 
 ## Featured Projects
 
-### SageLMS — AI-powered LMS with DevSecOps Pipeline
+### [SageLMS](https://github.com/daithang59/sagelms)
 
-Microservices-based LMS with AI Tutor, API Gateway, service-based architecture, Docker/Kubernetes direction, and DevSecOps validation pipeline.
+AI-powered LMS built with microservices and a DevSecOps-oriented pipeline.
 
-`Spring Boot` • `FastAPI` • `React` • `PostgreSQL + pgvector` • `Redis` • `Docker` • `Kubernetes` • `GitHub Actions` • `OpenTofu` • `Trivy` • `Checkov` • `SonarCloud`
-
-* Built microservices for auth, courses, content, progress, assessment, AI tutor, and worker processing
-* Designed CI quality gates with secret scanning, testing, Docker build/scan, IaC validation, and code quality checks
-* Worked with cloud/infrastructure automation using OpenTofu and GitHub Actions
-
-[Repository](https://github.com/daithang59/sagelms)
+`Spring Boot` • `FastAPI` • `React` • `PostgreSQL + pgvector` • `Redis` • `Docker` • `Kubernetes` • `OpenTofu` • `GitHub Actions` • `Trivy` • `Checkov` • `SonarCloud`
 
 ---
 
-### DocVault — Secure Document Management Platform
+### [DocVault](https://github.com/daithang59/docvault)
 
-Enterprise-style document management system with microservices, RBAC, approval workflow, object storage, and tamper-proof audit logging.
+Secure document management platform with RBAC, approval workflow, object storage, and audit trail.
 
 `Next.js` • `NestJS` • `PostgreSQL` • `Prisma` • `Keycloak` • `MinIO` • `Docker` • `GitHub Actions` • `Gitleaks`
 
-* Built secure document lifecycle: create → upload → review → publish → archive
-* Implemented role-based access, classification rules, ACL, audit trail, and workflow approval
-* Added E2E checks for authorization, malware upload blocking, DLP behavior, audit access, and compliance flow
-
-[Repository](https://github.com/daithang59/docvault)
-
 ---
 
-### EKS Cilium Benchmark — Kubernetes Networking Benchmark
+### [EKS Cilium Benchmark](https://github.com/daithang59/NT531_EKS-Cilium-Kubeproxy-Benchmark)
 
-Benchmark project comparing Kubernetes service datapath performance between kube-proxy baseline and Cilium eBPF kube-proxy replacement on AWS EKS.
+Kubernetes networking benchmark comparing kube-proxy baseline and Cilium eBPF kube-proxy replacement on AWS EKS.
 
 `AWS EKS` • `Terraform` • `Helm` • `Kubernetes` • `Cilium` • `eBPF` • `Fortio` • `Prometheus` • `Grafana` • `Hubble`
-
-* Provisioned EKS infrastructure with Terraform
-* Compared kube-proxy iptables baseline vs Cilium eBPF kube-proxy replacement
-* Designed benchmark scenarios for service baseline, high-load connection churn, and NetworkPolicy overhead
-* Collected evidence through benchmark logs, metadata, Kubernetes state, metrics, and observability tools
-
-[Repository](https://github.com/daithang59/NT531_EKS-Cilium-Kubeproxy-Benchmark)
 
 ---
 
 ### Other Projects
 
-* **VLeague Management System** — football league management platform with RBAC, match scheduling, reports, Docker Compose and CI/CD baseline
-  [Repository](https://github.com/daithang-organization/SE104_VLEAGUE)
-
-* **MentorMe Web/Mobile** — mentor/mentee platform with scheduling, realtime chat, video call, and mobile app
-  [Web](https://github.com/kaing615/MentorMe) • [Mobile](https://github.com/kaing615/MentorMe-Mobile-App)
+* [VLeague Management System](https://github.com/daithang-organization/SE104_VLEAGUE) — football league management platform with RBAC, scheduling, reports, Docker Compose and CI/CD baseline.
+* [MentorMe Web](https://github.com/kaing615/MentorMe) / [Mobile](https://github.com/kaing615/MentorMe-Mobile-App) — mentor/mentee platform with scheduling, realtime chat, video call and mobile app.
 
 ---
 
@@ -150,10 +117,6 @@ Benchmark project comparing Kubernetes service datapath performance between kube
 
 <img src="https://streak-stats.demolab.com?user=daithang59&theme=tokyonight&hide_border=true" />
 
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daithang59&theme=tokyonight" />
-
 </div>
 
 ---
@@ -162,7 +125,7 @@ Benchmark project comparing Kubernetes service datapath performance between kube
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/daithang59/daithang59/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
+<img src="https://raw.githubusercontent.com/daithang59/daithang59/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake dark" />
 
 </div>
 
