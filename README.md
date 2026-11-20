@@ -26,32 +26,20 @@ I focus on turning AWS architecture into working infrastructure: provisioning re
 - **Security:** least privilege IAM, Secrets Manager, IRSA, Trivy, SonarQube.
 - **Operations:** CloudWatch, health checks, Prometheus, Grafana, troubleshooting.
 
-### Engineering Workflow
+### Engineering Workflow  ·  Continuous Delivery
 
-<p align="center"><img src="assets/workflow.svg" width="100%" alt="Design Build Secure Deploy Monitor Improve — DevSecOps engineering workflow" /></p>
+<p align="center"><img src="assets/workflow.gif" width="100%" alt="Design Build Secure Deploy Monitor Improve — DevSecOps engineering workflow" /></p>
 
 ---
 
-### AWS Certifications
+### 🏅 AWS Certifications
 
-<p align="center"><sub>03 ASSOCIATE &nbsp;·&nbsp; 02 FOUNDATIONAL &nbsp;·&nbsp; 05 ACTIVE CERTIFICATIONS</sub></p>
+<p align="center">
+  <a href="https://www.credly.com/users/daithang59/badges/credly">
+    <img src="assets/certifications.gif" width="100%" alt="Five AWS certifications: Solutions Architect, CloudOps, Developer, AI Practitioner and Cloud Practitioner. Animated spotlight highlights each official badge." />
+  </a>
+</p>
 
-<table align="center">
- <tr>
-  <td align="center" width="20%"><a href="https://www.credly.com/users/daithang59/badges/credly"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="112" alt="AWS Certified Solutions Architect – Associate" /></a></td>
-  <td align="center" width="20%"><a href="https://www.credly.com/users/daithang59/badges/credly"><img src="https://images.credly.com/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" width="112" alt="AWS Certified CloudOps Engineer – Associate" /></a></td>
-  <td align="center" width="20%"><a href="https://www.credly.com/users/daithang59/badges/credly"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="112" alt="AWS Certified Developer – Associate" /></a></td>
-  <td align="center" width="20%"><a href="https://www.credly.com/users/daithang59/badges/credly"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="112" alt="AWS Certified AI Practitioner" /></a></td>
-  <td align="center" width="20%"><a href="https://www.credly.com/users/daithang59/badges/credly"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="112" alt="AWS Certified Cloud Practitioner" /></a></td>
- </tr>
- <tr>
-  <td align="center"><sub><b>Solutions Architect<br/>Associate</b></sub></td>
-  <td align="center"><sub><b>CloudOps Engineer<br/>Associate</b></sub></td>
-  <td align="center"><sub><b>Developer<br/>Associate</b></sub></td>
-  <td align="center"><sub><b>AI Practitioner</b></sub></td>
-  <td align="center"><sub><b>Cloud Practitioner</b></sub></td>
- </tr>
-</table>
 
 | Badge | Certification | Level | Exam | Verification |
 |:---:|:---|:---:|:---:|:---:|
@@ -61,25 +49,17 @@ I focus on turning AWS architecture into working infrastructure: provisioning re
 | <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="44" alt="AIF-C01" /> | **AWS Certified AI Practitioner** | Foundational | `AIF-C01` | [Credly profile ↗](https://www.credly.com/users/daithang59/badges/credly) |
 | <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="44" alt="CLF-C02" /> | **AWS Certified Cloud Practitioner** | Foundational | `CLF-C02` | [Credly profile ↗](https://www.credly.com/users/daithang59/badges/credly) |
 
-<sub>The verification links currently point to my public Credly profile. Individual badge URLs can replace them when available.</sub>
+<sub>Verification links point to my public Credly profile. Individual badge URLs can replace them when confirmed.</sub>
 
 ---
 
-### Tooling
+### 🛠️ Tooling
 
-**Cloud & Infrastructure**
+<p align="center">
+  <img src="assets/tooling.gif" width="100%" alt="Animated engineering stack: AWS, Linux, Terraform, Docker, Kubernetes, Nginx, Git, GitHub Actions, Jenkins, GitHub, Postman, Prometheus, Grafana and PostgreSQL." />
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,linux,terraform,docker,kubernetes,nginx&theme=dark" alt="AWS, Linux, Terraform, Docker, Kubernetes, Nginx" />
-
-**Delivery & Quality**
-
-<img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,github,postman&theme=dark" alt="Git, GitHub Actions, Jenkins, GitHub, Postman" />
-
-**Monitoring & Data**
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,postgres&theme=dark" alt="Prometheus, Grafana, PostgreSQL" />
-
-<sub>Other tools I use: Amazon ECR, Secrets Manager, CloudWatch, Trivy, SonarQube.</sub>
+<sub>Other tools I use: Amazon ECR, AWS Secrets Manager, Amazon CloudWatch, Trivy, SonarQube.</sub>
 
 ---
 
