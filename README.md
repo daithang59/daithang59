@@ -36,7 +36,7 @@ I focus on turning AWS architecture into working infrastructure: provisioning re
 
 ### 🏅 AWS Certifications
 
-<p align="center"><img src="assets/certification-sequence.svg" width="100%" alt="Five AWS certifications highlighted one after another" /></p>
+<p align="center"><img src="assets/aws-certifications.svg" width="100%" alt="Five AWS certifications highlighted one after another" /></p>
 
 <p align="center"><sub>03 ASSOCIATE &nbsp;·&nbsp; 02 FOUNDATIONAL &nbsp;·&nbsp; 05 AWS CERTIFICATIONS</sub></p>
 
@@ -71,19 +71,11 @@ I focus on turning AWS architecture into working infrastructure: provisioning re
 
 ### 🛠️ Tech Stack & Tooling
 
-**Cloud & Infrastructure**
+<p align="center">
+  <img src="assets/tech-stack.svg" width="100%" alt="AWS, Linux, Terraform, Docker, Kubernetes, Nginx, Git, GitHub Actions, Jenkins, GitHub, Postman, Prometheus, Grafana and PostgreSQL" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,linux,terraform,docker,kubernetes,nginx&theme=dark" alt="AWS, Linux, Terraform, Docker, Kubernetes, Nginx" />
-
-**Delivery & Quality**
-
-<img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,github,postman&theme=dark" alt="Git, GitHub Actions, Jenkins, GitHub, Postman" />
-
-**Monitoring & Data**
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,postgres&theme=dark" alt="Prometheus, Grafana, PostgreSQL" />
-
-<sub>Other tools I use: Amazon ECR, Secrets Manager, CloudWatch, Trivy, SonarQube.</sub>
+<sub>Additional experience: Amazon ECR, AWS Secrets Manager, Amazon CloudWatch, Trivy, SonarQube.</sub>
 
 ---
 
