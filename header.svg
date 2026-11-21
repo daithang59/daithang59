@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 220" width="100%" height="220" style="background: transparent;">
+  <defs>
+    <!-- Import Outfit Font -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;display=swap');
+      
+      .title {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 38px;
+        font-weight: 800;
+        fill: #ffffff;
+        text-anchor: start;
+        clip-path: url(#type-clip);
+      }
+      .subtitle {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 15px;
+        font-weight: 600;
+        letter-spacing: 4px;
+        fill: #ffb03a;
+        text-anchor: middle;
+        opacity: 0;
+        animation: subtitle-anim 6s infinite;
+      }
+      #clip-rect {
+        animation: type-anim 6s steps(9) infinite;
+      }
+      .cursor {
+        stroke: #ff9900;
+        stroke-width: 3.5;
+        stroke-linecap: round;
+        animation: cursor-move 6s steps(9) infinite, cursor-blink 0.75s infinite;
+      }
+      @keyframes type-anim {
+        0%, 10% { width: 0; }
+        45%, 80% { width: 213px; }
+        90%, 100% { width: 0; }
+      }
+      @keyframes cursor-move {
+        0%, 10% { transform: translateX(0); }
+        45%, 80% { transform: translateX(213px); }
+        90%, 100% { transform: translateX(0); }
+      }
+      @keyframes cursor-blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes subtitle-anim {
+        0%, 42% { opacity: 0; transform: translateY(5px); }
+        50%, 80% { opacity: 1; transform: translateY(0); }
+        85%, 100% { opacity: 0; transform: translateY(5px); }
+      }
+    </style>
+    
+    <filter id="glow-blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+    </filter>
+    
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="40%" stop-color="#1e293b" />
+      <stop offset="70%" stop-color="#232f3e" />
+      <stop offset="100%" stop-color="#ff9900" />
+    </linearGradient>
+
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.05" />
+    </pattern>
+
+    <clipPath id="wave-clip">
+      <path d="M 0 0 H 840 V 160 Q 630 205, 420 160 T 0 170 Z" />
+    </clipPath>
+
+    <clipPath id="type-clip">
+      <rect id="clip-rect" x="314" y="60" width="0" height="60" />
+    </clipPath>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="840" height="220" fill="#0b0f19" rx="15" />
+
+  <!-- Wave with Grid and Glow -->
+  <g clip-path="url(#wave-clip)">
+    <rect width="840" height="220" fill="url(#grad)" />
+    <rect width="840" height="220" fill="url(#grid)" />
+    <!-- Secondary overlapping wave outline for 3D look -->
+    <path d="M 0 165 Q 210 125, 420 170 T 840 160" fill="none" stroke="#ff9900" stroke-width="4" opacity="0.4" filter="url(#glow-blur)" />
+    <path d="M 0 165 Q 210 125, 420 170 T 840 160" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.2" />
+  </g>
+
+  <!-- Typography and Animations -->
+  <g transform="translate(0, 10)">
+    <!-- Animated Name -->
+    <text x="314" y="105" class="title">Dai Thang</text>
+    
+    <!-- Moving Typing Cursor -->
+    <line class="cursor" x1="314" y1="72" x2="314" y2="110" />
+
+    <!-- Subtitle (Fades in) -->
+    <text x="420" y="145" class="subtitle">DEVOPS • CLOUD • SECURITY</text>
+  </g>
+</svg>

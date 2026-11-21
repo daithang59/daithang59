@@ -1,0 +1,259 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 110" width="100%" height="110" style="background: transparent;">
+  <defs>
+    <filter id="glow-blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+    </filter>
+    <style>
+      .bg-line {
+        stroke: #22272e;
+        stroke-width: 4;
+        stroke-linecap: round;
+      }
+      .glow-blur-line {
+        stroke: #ff9900;
+        stroke-width: 8;
+        stroke-linecap: round;
+        opacity: 0.6;
+        filter: url(#glow-blur);
+        animation: flow 4s linear infinite;
+      }
+      .glow-core-line {
+        stroke: #ffb03a;
+        stroke-width: 3;
+        stroke-linecap: round;
+        animation: flow 4s linear infinite;
+      }
+      @keyframes flow {
+        0% {
+          stroke-dashoffset: 720;
+        }
+        100% {
+          stroke-dashoffset: 0;
+        }
+      }
+      .node {
+        fill: #0d1117;
+        stroke: #30363d;
+        stroke-width: 2;
+        rx: 16px;
+        ry: 16px;
+        transition: all 0.3s ease;
+      }
+      .node-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+        fill: #8b949e;
+        text-anchor: middle;
+        pointer-events: none;
+      }
+      
+      .icon {
+        fill: none;
+        stroke: #8b949e;
+        stroke-width: 1.8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        opacity: 0.25;
+        transform-box: fill-box;
+        transform-origin: center;
+        transition: all 0.3s ease;
+      }
+
+      .n1 { animation: pulse-1 4s infinite; animation-delay: 0s; }
+      .n2 { animation: pulse-2 4s infinite; animation-delay: 0.67s; }
+      .n3 { animation: pulse-3 4s infinite; animation-delay: 1.33s; }
+      .n4 { animation: pulse-4 4s infinite; animation-delay: 2.00s; }
+      .n5 { animation: pulse-5 4s infinite; animation-delay: 2.67s; }
+      .n6 { animation: pulse-6 4s infinite; animation-delay: 3.33s; }
+      .n7 { animation: pulse-7 4s infinite; animation-delay: 4.00s; }
+      
+      .t1 { animation: textPulse 4s infinite; animation-delay: 0s; }
+      .t2 { animation: textPulse 4s infinite; animation-delay: 0.67s; }
+      .t3 { animation: textPulse 4s infinite; animation-delay: 1.33s; }
+      .t4 { animation: textPulse 4s infinite; animation-delay: 2.00s; }
+      .t5 { animation: textPulse 4s infinite; animation-delay: 2.67s; }
+      .t6 { animation: textPulse 4s infinite; animation-delay: 3.33s; }
+      .t7 { animation: textPulse 4s infinite; animation-delay: 4.00s; }
+
+      .i1 { animation: iconPulse-1 4s infinite; animation-delay: 0s; }
+      .i2 { animation: iconPulse-2 4s infinite; animation-delay: 0.67s; }
+      .i3 { animation: iconPulse-3 4s infinite; animation-delay: 1.33s; }
+      .i4 { animation: iconPulse-4 4s infinite; animation-delay: 2.00s; }
+      .i5 { animation: iconPulse-5 4s infinite; animation-delay: 2.67s; }
+      .i6 { animation: iconPulse-6 4s infinite; animation-delay: 3.33s; }
+      .i7 { animation: iconPulse-7 4s infinite; animation-delay: 4.00s; }
+
+      @keyframes pulse-1 {
+        0%, 100% { fill: #0d1117; stroke: #30363d; filter: none; }
+        8% { fill: #161b22; stroke: #ff9900; filter: drop-shadow(0px 0px 5px rgba(255, 153, 0, 0.7)); }
+        18% { fill: #0d1117; stroke: #30363d; filter: none; }
+      }
+      @keyframes pulse-2 {
+        0%, 100% { fill: #0d1117; stroke: #30363d; filter: none; }
+        8% { fill: #161b22; stroke: #2496ed; filter: drop-shadow(0px 0px 5px rgba(36, 150, 237, 0.7)); }
+        18% { fill: #0d1117; stroke: #30363d; filter: none; }
+      }
+      @keyframes pulse-3 {
+        0%, 100% { fill: #0d1117; stroke: #30363d; filter: none; }
+        8% { fill: #161b22; stroke: #00ffd0; filter: drop-shadow(0px 0px 5px rgba(0, 255, 208, 0.7)); }
+        18% { fill: #0d1117; stroke: #30363d; filter: none; }
+      }
+      @keyframes pulse-4 {
+        0%, 100% { fill: #0d1117; stroke: #30363d; filter: none; }
+        8% { fill: #161b22; stroke: #326ce5; filter: drop-shadow(0px 0px 5px rgba(50, 108, 229, 0.7)); }
+        18% { fill: #0d1117; stroke: #30363d; filter: none; }
+      }
+      @keyframes pulse-5 {
+        0%, 100% { fill: #0d1117; stroke: #30363d; filter: none; }
+        8% { fill: #161b22; stroke: #f46800; filter: drop-shadow(0px 0px 5px rgba(244, 104, 0, 0.7)); }
+        18% { fill: #0d1117; stroke: #30363d; filter: none; }
+      }
+      @keyframes pulse-6 {
+        0%, 100% { fill: #0d1117; stroke: #30363d; filter: none; }
+        8% { fill: #161b22; stroke: #ffb03a; filter: drop-shadow(0px 0px 5px rgba(255, 176, 58, 0.7)); }
+        18% { fill: #0d1117; stroke: #30363d; filter: none; }
+      }
+      @keyframes pulse-7 {
+        0%, 100% { fill: #0d1117; stroke: #30363d; filter: none; }
+        8% { fill: #161b22; stroke: #00f2fe; filter: drop-shadow(0px 0px 5px rgba(0, 242, 254, 0.7)); }
+        18% { fill: #0d1117; stroke: #30363d; filter: none; }
+      }
+
+      @keyframes textPulse {
+        0% { fill: #8b949e; }
+        8% { fill: #ffffff; text-shadow: 0 0 2px rgba(255,255,255,0.5); }
+        18% { fill: #8b949e; }
+        100% { fill: #8b949e; }
+      }
+
+      @keyframes iconPulse-1 {
+        0%, 100% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+        8% { opacity: 1; transform: translateY(-4px) scale(1.1); stroke: #ff9900; filter: drop-shadow(0 0 4px #ff9900); }
+        18% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+      }
+      @keyframes iconPulse-2 {
+        0%, 100% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+        8% { opacity: 1; transform: translateY(-4px) scale(1.1); stroke: #2496ed; filter: drop-shadow(0 0 4px #2496ed); }
+        18% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+      }
+      @keyframes iconPulse-3 {
+        0%, 100% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+        8% { opacity: 1; transform: translateY(-4px) scale(1.1); stroke: #00ffd0; filter: drop-shadow(0 0 4px #00ffd0); }
+        18% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+      }
+      @keyframes iconPulse-4 {
+        0%, 100% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+        8% { opacity: 1; transform: translateY(-4px) scale(1.1); stroke: #326ce5; filter: drop-shadow(0 0 4px #326ce5); }
+        18% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+      }
+      @keyframes iconPulse-5 {
+        0%, 100% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+        8% { opacity: 1; transform: translateY(-4px) scale(1.1); stroke: #f46800; filter: drop-shadow(0 0 4px #f46800); }
+        18% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+      }
+      @keyframes iconPulse-6 {
+        0%, 100% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+        8% { opacity: 1; transform: translateY(-4px) scale(1.1); stroke: #ffb03a; filter: drop-shadow(0 0 4px #ffb03a); }
+        18% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+      }
+      @keyframes iconPulse-7 {
+        0%, 100% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+        8% { opacity: 1; transform: translateY(-4px) scale(1.1); stroke: #00f2fe; filter: drop-shadow(0 0 4px #00f2fe); }
+        18% { opacity: 0.25; transform: translateY(0) scale(1); stroke: #8b949e; filter: none; }
+      }
+    </style>
+  </defs>
+
+  <!-- Connection Lines -->
+  <path d="M 60 65 L 780 65" class="bg-line" />
+  <path d="M 60 65 L 780 65" stroke-dasharray="100 620" class="glow-blur-line" />
+  <path d="M 60 65 L 780 65" stroke-dasharray="100 620" class="glow-core-line" />
+
+  <!-- Nodes, Icons and Text -->
+  <!-- Node 1: Design -->
+  <g style="cursor: pointer;">
+    <g class="i1 icon">
+      <polygon points="49,14 57,18 57,26 49,22" />
+      <polygon points="60,8 68,12 68,20 60,16" />
+      <polygon points="60,22 68,26 68,34 60,30" />
+      <polygon points="71,16 79,20 79,28 71,24" />
+    </g>
+    <rect x="15" y="45" width="90" height="40" class="node n1" />
+    <text x="60" y="69" class="node-text t1">Design</text>
+  </g>
+
+  <!-- Node 2: Build -->
+  <g style="cursor: pointer;">
+    <g class="i2 icon">
+      <rect x="168" y="24" width="24" height="8" rx="1" />
+      <line x1="174" y1="24" x2="174" y2="32" />
+      <line x1="180" y1="24" x2="180" y2="32" />
+      <line x1="186" y1="24" x2="186" y2="32" />
+      <rect x="172" y="14" width="16" height="8" rx="1" />
+      <line x1="177" y1="14" x2="177" y2="22" />
+      <line x1="183" y1="14" x2="183" y2="22" />
+    </g>
+    <rect x="135" y="45" width="90" height="40" class="node n2" />
+    <text x="180" y="69" class="node-text t2">Build</text>
+  </g>
+
+  <!-- Node 3: Secure -->
+  <g style="cursor: pointer;">
+    <g class="i3 icon">
+      <path d="M 290 10 C 290 10 300 8 300 8 C 300 8 310 10 310 10 C 310 20 307 28 300 32 C 293 28 290 20 290 10 Z" />
+      <path d="M 300 15 A 2 2 0 1 0 300 19 L 299 24 H 301 L 300 19" />
+    </g>
+    <rect x="255" y="45" width="90" height="40" class="node n3" />
+    <text x="300" y="69" class="node-text t3">Secure</text>
+  </g>
+
+  <!-- Node 4: Deploy -->
+  <g style="cursor: pointer;">
+    <g class="i4 icon">
+      <polygon points="420,7 431,12 435,23 427,32 413,32 405,23 409,12" />
+      <line x1="420" y1="20" x2="420" y2="7" />
+      <line x1="420" y1="20" x2="431" y2="12" />
+      <line x1="420" y1="20" x2="435" y2="23" />
+      <line x1="420" y1="20" x2="427" y2="32" />
+      <line x1="420" y1="20" x2="413" y2="32" />
+      <line x1="420" y1="20" x2="405" y2="23" />
+      <line x1="420" y1="20" x2="409" y2="12" />
+      <circle cx="420" cy="20" r="3.5" />
+    </g>
+    <rect x="375" y="45" width="90" height="40" class="node n4" />
+    <text x="420" y="69" class="node-text t4">Deploy</text>
+  </g>
+
+  <!-- Node 5: Monitor -->
+  <g style="cursor: pointer;">
+    <g class="i5 icon">
+      <rect x="528" y="9" width="24" height="16" rx="2" />
+      <path d="M 536 25 L 534 29 H 546 L 544 25 Z" />
+      <path d="M 531 19 L 536 13 L 541 20 L 546 12 L 549 17" />
+    </g>
+    <rect x="495" y="45" width="90" height="40" class="node n5" />
+    <text x="540" y="69" class="node-text t5">Monitor</text>
+  </g>
+
+  <!-- Node 6: Optimize -->
+  <g style="cursor: pointer;">
+    <g class="i6 icon">
+      <path d="M 660 7 C 660 7 664 12 664 21 L 666 26 H 654 L 656 21 C 656 12 660 7 660 7 Z" />
+      <path d="M 654 20 C 651 22 650 25 649 28 H 654 Z" />
+      <path d="M 666 20 C 669 22 670 25 671 28 H 666 Z" />
+      <path d="M 657 28 L 660 33 L 663 28 Z" />
+    </g>
+    <rect x="615" y="45" width="90" height="40" class="node n6" />
+    <text x="660" y="69" class="node-text t6">Optimize</text>
+  </g>
+
+  <!-- Node 7: Repeat -->
+  <g style="cursor: pointer;">
+    <g class="i7 icon">
+      <path d="M 767 20 C 767 14 774 14 780 20 C 786 26 793 26 793 20 C 793 14 786 14 780 20 C 774 26 767 26 767 20 Z" />
+    </g>
+    <rect x="735" y="45" width="90" height="40" class="node n7" />
+    <text x="780" y="69" class="node-text t7">Repeat</text>
+  </g>
+</svg>

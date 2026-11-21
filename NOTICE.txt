@@ -1,0 +1,14 @@
+Upstream design and animation SVGs: Kien-devops/Kien-devops
+https://github.com/Kien-devops/Kien-devops
+
+This package includes a PERSONALIZATION BUILDER, not the author's original source artwork.
+It downloads the author's actual SVG and badge files directly from GitHub.
+The original repo was publicly visible but did not declare a LICENSE at the time checked.
+Public visibility does not by itself grant permission to republish the code/assets.
+Ask the author before publishing a direct derivative or reused artwork.
+
+Personalized by the builder:
+- README.md for Dai Thang (no copied personal achievements)
+- header.svg: name only
+- aws-certifications.svg: same source/animation, replace SysOps and DevOps Professional PNGs
+- philosophy-flow.svg and tech-stack.svg: unchanged from upstream
