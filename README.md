@@ -99,4 +99,3 @@ My engineering philosophy:
   <img src="https://komarev.com/ghpvc/?username=daithang59&color=ff9900&style=flat-square" alt="Profile Views" />
 </p>
 
-<sub>Design / animation credits: [Kien-devops](https://github.com/Kien-devops/Kien-devops). Original SVG source reused with permission (please confirm with author before publishing).</sub>
